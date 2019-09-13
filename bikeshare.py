@@ -28,7 +28,7 @@ def get_filters():
         else:
             x += ', ' + item.title()
 
-    city = input('\nPlease enter one of the following cities: {}\n'.format(x)).lower()
+    city = input('\nPlease enter one of the following to filter by cities: {}\n'.format(x)).lower()
     while city not in CITY_DATA:
         city = input('\nInvalid input. ' +
                     'Please enter one of the following cities:\n{}\n'.format(x)).lower()
