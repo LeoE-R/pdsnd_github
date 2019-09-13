@@ -5,7 +5,7 @@
 Explore US Bikeshare Data
 
 ### Description
-The purpose of this project is to calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyse.
+The purpose of this project is to calculate statistics in an interactive environment where a user chooses the data and filter for a dataset to analyse.
 
 ### Files used
 bikeshare.py
