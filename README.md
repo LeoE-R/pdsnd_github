@@ -5,7 +5,7 @@
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The purpose of this project is to calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyse.
 
 ### Files used
 Include the files used
