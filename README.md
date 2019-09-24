@@ -14,4 +14,4 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-Credit goes to the Udacity team!
+Thank you to the Udacity team!
